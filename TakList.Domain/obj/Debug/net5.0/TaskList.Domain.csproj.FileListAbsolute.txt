@@ -1,0 +1,12 @@
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\bin\Debug\net5.0\TaskList.Domain.deps.json
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\bin\Debug\net5.0\TaskList.Domain.dll
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\bin\Debug\net5.0\ref\TaskList.Domain.dll
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\bin\Debug\net5.0\TaskList.Domain.pdb
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\obj\Debug\net5.0\TaskList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\obj\Debug\net5.0\TaskList.Domain.AssemblyInfoInputs.cache
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\obj\Debug\net5.0\TaskList.Domain.AssemblyInfo.cs
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\obj\Debug\net5.0\TaskList.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\obj\Debug\net5.0\TaskList.Domain.dll
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\obj\Debug\net5.0\ref\TaskList.Domain.dll
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\obj\Debug\net5.0\TaskList.Domain.pdb
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\obj\Debug\net5.0\TaskList.Domain.csproj.AssemblyReference.cache

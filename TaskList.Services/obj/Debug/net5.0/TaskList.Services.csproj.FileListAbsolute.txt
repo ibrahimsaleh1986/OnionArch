@@ -1,0 +1,12 @@
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\bin\Debug\net5.0\TaskList.Services.deps.json
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\bin\Debug\net5.0\TaskList.Services.dll
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\bin\Debug\net5.0\ref\TaskList.Services.dll
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\bin\Debug\net5.0\TaskList.Services.pdb
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\obj\Debug\net5.0\TaskList.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\obj\Debug\net5.0\TaskList.Services.AssemblyInfoInputs.cache
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\obj\Debug\net5.0\TaskList.Services.AssemblyInfo.cs
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\obj\Debug\net5.0\TaskList.Services.csproj.CoreCompileInputs.cache
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\obj\Debug\net5.0\TaskList.Services.dll
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\obj\Debug\net5.0\ref\TaskList.Services.dll
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\obj\Debug\net5.0\TaskList.Services.pdb
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\obj\Debug\net5.0\TaskList.Services.csproj.AssemblyReference.cache

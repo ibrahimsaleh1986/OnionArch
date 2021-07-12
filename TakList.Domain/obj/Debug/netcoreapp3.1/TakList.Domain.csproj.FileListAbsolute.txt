@@ -1,0 +1,9 @@
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\bin\Debug\netcoreapp3.1\TakList.Domain.deps.json
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\bin\Debug\netcoreapp3.1\TakList.Domain.dll
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\bin\Debug\netcoreapp3.1\TakList.Domain.pdb
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\obj\Debug\netcoreapp3.1\TakList.Domain.csproj.AssemblyReference.cache
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\obj\Debug\netcoreapp3.1\TakList.Domain.AssemblyInfoInputs.cache
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\obj\Debug\netcoreapp3.1\TakList.Domain.AssemblyInfo.cs
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\obj\Debug\netcoreapp3.1\TakList.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\obj\Debug\netcoreapp3.1\TakList.Domain.dll
+C:\Users\Rosa\source\repos\TaskList\TakList.Domain\obj\Debug\netcoreapp3.1\TakList.Domain.pdb

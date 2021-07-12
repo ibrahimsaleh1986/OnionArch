@@ -1,0 +1,2 @@
+dotnet ef migrations add TaskItems --startup-project ./ --project ../TaskList.DAL/
+dotnet ef migrations script 0 Initial -i -o ..\TaskList.DAL\Migrations\Scripts\0000.sql

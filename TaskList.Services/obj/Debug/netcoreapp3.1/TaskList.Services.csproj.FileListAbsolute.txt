@@ -1,0 +1,9 @@
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\bin\Debug\netcoreapp3.1\TaskList.Services.deps.json
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\bin\Debug\netcoreapp3.1\TaskList.Services.dll
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\bin\Debug\netcoreapp3.1\TaskList.Services.pdb
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\obj\Debug\netcoreapp3.1\TaskList.Services.AssemblyInfoInputs.cache
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\obj\Debug\netcoreapp3.1\TaskList.Services.AssemblyInfo.cs
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\obj\Debug\netcoreapp3.1\TaskList.Services.csproj.CoreCompileInputs.cache
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\obj\Debug\netcoreapp3.1\TaskList.Services.dll
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\obj\Debug\netcoreapp3.1\TaskList.Services.pdb
+C:\Users\Rosa\source\repos\TaskList\TaskList.Services\obj\Debug\netcoreapp3.1\TaskList.Services.csproj.AssemblyReference.cache
